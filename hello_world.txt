@@ -1,1 +1,2 @@
 Hi guys!
+Trying out the Git commit message in VS Code
